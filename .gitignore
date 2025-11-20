@@ -1,0 +1,22 @@
+# Node / Next.js
+node_modules/
+.next/
+*.log
+dist/
+out/
+coverage/
+
+# Env / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+user_state.json
+
+# OS
+.DS_Store
+Thumbs.db
+
